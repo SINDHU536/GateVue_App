@@ -43,13 +43,20 @@ To build a real-world mobile application with multiple user roles and dynamic na
 ![Dashboard](./HomeScreen.png)
 
 ### 📋 Visitors Screen
-![Visitors](./visitors.png)
+![Visitors](./Visitors_Screen.png)
 
 ### 👤 Admin Panel
 ![Admin](./Add_AdminUser.png)
 
 ### Navigation Bar
 ![Navigation bar](./Navigation_Bar.png)
+
+### Security Users Screen
+![Security](./SecurityUsers_Screen.png).
+
+###Reports Screen
+![Reports](./Reports_Screen.png)
+
 
 
 
