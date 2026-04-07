@@ -75,6 +75,12 @@ src/
 * State management using Context API
 * Building scalable React Native apps
 
+## 🎯 Why I Built This
+To understand real-world mobile app architecture, role-based navigation, and API integration using React Native.
+
+## 🚀 One-Line Summary
+A React Native app replicating a real-world visitor management system with role-based access control and API integration.  
+
 ## 👩‍💻 Author
 
 Sindhu
