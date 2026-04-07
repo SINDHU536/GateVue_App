@@ -37,10 +37,10 @@ To build a real-world mobile application with multiple user roles and dynamic na
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login](./login.png)
+![Login](./Login_Screen.png)
 
 ### 🏠 Dashboard
-![Dashboard](./dashboard.png)
+![Dashboard](./HomeScreen.png)
 
 ### 📋 Visitors Screen
 ![Visitors](./visitors.png)
